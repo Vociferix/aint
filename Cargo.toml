@@ -6,6 +6,24 @@ license = "MIT OR Apache-2.0"
 authors = ["Jack Bernard <jack.a.bernard.jr@mgail.com>"]
 repository = "https://github.com/Vociferix/aint"
 description = "Arbitrary width integers between 1 and 128"
+homepage = "https://github.com/Vociferix/aint"
+documentation = "https://docs.rs/aint"
+readme = "README.md"
+keywords = [
+    "int",
+    "uint",
+    "arbitrary",
+    "no_std",
+    "num",
+]
+categories = [
+    "embedded",
+    "encoding",
+    "mathematics",
+    "no-std",
+    "no-std::no-alloc",
+    "parsing",
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
