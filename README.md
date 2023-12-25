@@ -9,10 +9,9 @@ overflow behaviors match what would be expected for a hypothetical built-in
 integer `T` with `N` bits.
 
 ### Example
-```
-# use aint::*;
+```rust
 fn add(a: i13, b: i13) -> i13 {
-a + b
+    a + b
 }
 
 let x = i13!(100);
